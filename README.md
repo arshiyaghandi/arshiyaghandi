@@ -9,7 +9,7 @@
     Merging <b>Java Backend Architecture</b> with <b>Deep Learning</b> research.
   </p>
 
-  <a href="https://www.linkedin.com/in/arshiya-ghandi-5b4982279">
+  <a href="https://www.linkedin.com/in/arshiya-ghandi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arshiaghandi19@gmail.com">
