@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/arshiya-ghandi-5b4982279">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:arshiaghandi@erzi.me">
+  <a href="mailto:arshiaghandi19@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -20,22 +20,16 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arshiyaghandi&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
-</div>
 
 <br />
 
 ---
 
-### 🔭 &nbsp;Current Mission
-I am an undergraduate Computer Engineering student focused on high-performance computing. I treat code as a logic puzzle; if it's not efficient, it's not finished.
+### 🎓 &nbsp;Education & Professional Status
+I am a passionate developer bridging the gap between academic research and industrial financial systems.
 
-- 💼 **Work:** Designing backend microservices for financial trading.
-- 🧠 **Research:** Optimizing Neural Networks using Genetic Algorithms.
-- 🎯 **Goal:** Ph.D. studies in Scandinavian Universities.
+- 🎓 **Education:** B.Sc. Student in **Computer Engineering** at **IAU, North Tehran Branch**.
+- 💼 **Current Role:** Backend Developer at **Tejarat Bank Brokerage**.
 
 ---
 
@@ -45,6 +39,7 @@ I am an undergraduate Computer Engineering student focused on high-performance c
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
